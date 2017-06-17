@@ -1,0 +1,18 @@
+{
+  "name": "benmagyar.com",
+  "version": "1.0.0",
+  "description": "personal site",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build && next export && cp ./root/* ./out/",
+    "start": "next start"
+  },
+  "author": "Ben Magyar",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^3.0.0-beta14",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
