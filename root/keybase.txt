@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/benmagyar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://benmagyar.com
+  * I am benmagyar (https://keybase.io/benmagyar) on keybase.
+  * I have a public key with fingerprint 4949 76A7 FD56 482F 6DBD  77BD 98A6 542E 5982 66E9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010199e6aad66df5397efa8e4c3c1fa2ac33b8eb887cd45bdf5b746b2ec13347f0170a",
+            "fingerprint": "494976a7fd56482f6dbd77bd98a6542e598266e9",
+            "host": "keybase.io",
+            "key_id": "98a6542e598266e9",
+            "kid": "010199e6aad66df5397efa8e4c3c1fa2ac33b8eb887cd45bdf5b746b2ec13347f0170a",
+            "uid": "0fd9e4e6eb3f22543cf191256505bb19",
+            "username": "benmagyar"
+        },
+        "service": {
+            "hostname": "benmagyar.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1497735229,
+    "expire_in": 157680000,
+    "prev": "8155fa7ba899f530ca26b02366c6e93894a8bd7abb7b7124b8fb35e39e1e2e4e",
+    "seqno": 25,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJbSBVBGD6WlQpWkBaUlKw+WJmcve8eu4gmZPZQaJRkHWd2Z47rZfe4
+Z4+ldgjTJ6VIiAgxrbCoSO0imViRxzIxMLXCQKhUsps9JRGF2azVS/TYvAzzz/d9
+//d/Mw8i5zsiQvSqsai2HvV8yOPuer8jJ/3spgoKGmoZ5aqgCtHchopU5LPchZpK
+uSgn7aRlGQkAqIKgYp6VRYSBhDiFVWgMGKCwLJQQlCRRUTkeEggUOQEySKFZlhOx
+kxadgEqksKZ7kOk1Nd0ispzMyaIARKzyAicxWFChKopQlSUg8ByDeFliBAHJhJhv
++GwGMQeBDyVpBqmRg3vO3j/w/9m3/5ccVmXEIQFBFjMMz7EKpmWa4QXeyUNI2339
+PmTqoBgRNER6MfCUAZMKJFKkXKopyE7WHuVvSJJiFBO21zQsQzGKyFW+ZXl9Lptq
+lXlt7EEE3b9V3FDTVZIkYZQi06cZOuWiCVKxNFuWJqmKLM8wciKFDnk1E7k1G8GL
+guQky+6DSomkRPM8BiIEkiyTcJwKYAToZFhBUEiKrCRzQCIvAiAUoUgzHJQwZHnE
+yohGDAmCsucq0Q3KxfDEJ/AQTZ/m0YHlNxEVCN7PDXWERDgWLphnfzFHRPjSPx/v
+28yiWXw7tiZqz4ruJZeH4t7l/cgsDHu4qmc0Nmr7hjP153D8sBQz05g6Vt3QUVKT
+kfOpZNdEpvUxvq1xFKWnrJ1e+n3c/7QuouXqm4Vv5z0J9nVOri9/FL18NuV5L3q/
+tYO7Fpjuiz67Jif0XtOWps/VlTtGykOykvlteSP1keO7X7/IHgnPrtwY2ySWH884
+2nygKrrrQ39ke8tpdxTOag8MeQIFL1unElL30u3HFk/dNeMCvUeCdSW+yXUNK6d2
+9g1dqv1yfWIsoXNza5o4mJt2a6Yjs+1r8MZgaUxbYcrhbFxw4dTA6sm4sP3NJ16B
+2v7Gi3cyT+678mzZ8Ex5V8vNoQEcTI77CSjcSn0=
+=TIv5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/benmagyar
+
+==================================================================

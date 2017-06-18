@@ -1,12 +1,13 @@
 {
   "name": "benmagyar.com",
   "version": "1.0.0",
-  "description": "personal site",
+  "description": "personal",
   "main": "index.js",
   "scripts": {
     "dev": "next",
     "build": "next build && next export && cp ./root/* ./out/",
-    "start": "next start"
+    "start": "next start",
+    "deploy": "npm run build && s3-website deploy"
   },
   "author": "Ben Magyar",
   "license": "MIT",
