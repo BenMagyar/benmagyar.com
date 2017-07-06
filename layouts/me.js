@@ -52,11 +52,12 @@ export const Description = ({ children }) => (
 )
 
 export const Links = ({ children }) => (
-  <div className='root'>
+  <ul className='root'>
     <style jsx>{`
       .root {
         width: 200px;
         margin-left: 20px;
+        list-style-type: none;
       }
       .root :global(a) {
         margin-bottom: 5px;
@@ -74,5 +75,5 @@ export const Links = ({ children }) => (
       }
     `}</style>
     {children}
-  </div>
+  </ul>
 )
