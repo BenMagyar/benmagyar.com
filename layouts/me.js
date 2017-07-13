@@ -55,15 +55,17 @@ export const Links = ({ children }) => (
   <ul className='root'>
     <style jsx>{`
       .root {
+        margin: 0;
         width: 200px;
         margin-left: 20px;
         list-style-type: none;
+        padding: 0;
       }
-      .root :global(a) {
+      .root :global(li a) {
         margin-bottom: 5px;
       }
-      .root :global(a:nth-child(2)) { background: rgba(0,0,0,.85) }
-      .root :global(a:nth-child(3)) { background: rgba(0,0,0,.7) }
+      .root :global(li:nth-child(2) a) { background: rgba(0,0,0,.85) }
+      .root :global(li:nth-child(3) a) { background: rgba(0,0,0,.7) }
       @media screen and (max-width: 767px) {
         .root {
           width: 100%;
