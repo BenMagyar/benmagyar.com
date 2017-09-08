@@ -29,8 +29,8 @@ export default () => (
             Ben Magyar
           </H1>
           <p>
-            I'm a developer from Pennsylvania, currently working
-            at <a target="_blank" href="https://www.nextgen.com/">NextGen</a>.
+            I'm a developer from Pennsylvania, spending my time
+            at <a target="_blank" href="https://www.aweber.com/">AWeber</a>.
           </p>
         </Description>
         <Links>

@@ -5,7 +5,7 @@ export default ({ children }) => (
   <div>
     <Head>
       <title>Ben Magyar</title>
-      <meta name='description' content="I'm a developer from Pennsylvania currently working at NextGen." />
+      <meta name='description' content="I'm a developer from Pennsylvania, spending my time at AWeber." />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
     </Head>
     <style jsx>{`
