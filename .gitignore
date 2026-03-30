@@ -1,7 +1,10 @@
 .next/
 node_modules/
+scripts/
 out/
 package-lock.json
 .env
 .DS_Store
 .s3-website.json
+*.m4a
+app.js

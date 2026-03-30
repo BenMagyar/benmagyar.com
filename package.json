@@ -1,19 +1,19 @@
 {
   "name": "benmagyar.com",
-  "version": "1.0.0",
-  "description": "personal",
-  "main": "index.js",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
   "scripts": {
-    "dev": "next",
-    "build": "next build && next export && cp ./root/* ./out/",
-    "start": "next start",
-    "deploy": "npm run build && s3-website deploy"
+    "derive:viz": "bun run ./scripts/derive-viz.ts --input ./viz.m4a --output ./index.html --fps 24 --rows 21",
+    "build": "bun build ./index.ts --outfile ./app.js --target browser --minify"
   },
-  "author": "Ben Magyar",
-  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
   "dependencies": {
-    "next": "^3.0.0-beta14",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "@chenglou/pretext": "^0.0.3"
   }
 }
